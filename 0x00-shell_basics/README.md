@@ -8,3 +8,4 @@
 8. move file from one directory to a folder in the same directory
 9. delete a file from a directory
 10. delete directory
+11. script that changes the working directory to the previous one
