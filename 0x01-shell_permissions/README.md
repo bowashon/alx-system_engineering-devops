@@ -6,4 +6,5 @@
 4.script to create an empty file
 5.script to add execute permission to a file
 6.script to set multiple permissions
+7.script to set multiple permissions without using commas
 
