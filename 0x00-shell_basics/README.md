@@ -10,3 +10,4 @@
 9. delete directory
 10. script that changes the working directory to the previous one
 11. script to list content
+12. script to list file type
