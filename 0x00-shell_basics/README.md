@@ -12,3 +12,4 @@
 11. script to list content
 12. script to list file type
 13. to create a symbolic link to /bin/ls in the current directory
+14. to create a script that copy all .html file
