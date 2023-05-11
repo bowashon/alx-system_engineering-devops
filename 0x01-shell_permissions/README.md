@@ -4,4 +4,5 @@
 2.script to print all groups of which curren user is part
 3.script to change owner of the file hello
 4.script to create an empty file
+5.script to add execute permission to a file
 
