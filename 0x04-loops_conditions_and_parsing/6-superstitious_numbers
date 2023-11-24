@@ -1,15 +1,18 @@
 #!/usr/bin/env bash
 #Display numbers
-i=0
-while ((i<20)); do
-    ((i++))
+i=1
+while ((i<=20)); do
     if ((i==4)); then
+        echo "$i"
         echo "bad luck from China"
     elif ((i==9)); then
+        echo "$i"
         echo "bad luck from Japan"
     elif ((i==17)); then
+        echo "$i"
         echo "bad luck from Itwly"
     else
         echo "$i"
     fi
+    ((i++))
 done
