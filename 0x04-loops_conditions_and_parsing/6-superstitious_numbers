@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-#Display numbers
+#Display numbers from 1 to 20
+#prints statements after printing 4, 9 and 17
 counter=1
 while  [ $counter -le 20 ]; do
     echo " $counter"
