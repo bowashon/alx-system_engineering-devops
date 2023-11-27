@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#script that print the content of a directory
+
+list=$(ls)
+for f in $list; do
+   if [ -f "$f" ]; then
+	   echo "$f" | cut -d'-' -f2
+   fi
+done
