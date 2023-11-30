@@ -3,4 +3,4 @@
 
 args=ARGV[0]
 
-args.scan(/htn|hbtn/).join
+puts args.scan(/htn|hbtn/).join

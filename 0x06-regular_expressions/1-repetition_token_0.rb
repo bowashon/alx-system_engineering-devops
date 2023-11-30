@@ -3,4 +3,4 @@
 
 argument=ARGV[0]
 
-argument.scan(/hbt{2,5}n/).join
+puts argument.scan(/hbt{2,5}n/).join
